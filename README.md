@@ -1,2 +1,2 @@
 # odin-recipes
-HTML project for TOP on recipes
+HTML project for TOP about recipes
